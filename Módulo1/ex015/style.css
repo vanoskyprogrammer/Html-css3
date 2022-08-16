@@ -1,0 +1,23 @@
+@charset "UTF8";
+
+        body
+        { background-color:aquamarine;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        h1
+        {
+            background-color: black;
+            color: azure;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        h2
+        {
+            background-color: black;
+            color: ivory;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        p
+        {
+            text-align: justify;
+        }

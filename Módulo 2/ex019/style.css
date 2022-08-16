@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/*EM HTML É  ID E CSS É #(SÓ PODE ESTAR NUM ÚNICO ELEMENTO ).
+
+EM HTML É CLASSE E CSS É .(PODE ESTAR EM MUITOS).
+*/
+body{
+    background-color: rgb(15, 124, 124);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+color: rgb(87, 21, 21);
+    
+}
+h2{
+    color: rgb(90, 30, 30);
+}
+p{
+    text-indent: 20px;
+}
+h1#principal{
+    text-align: center;
+    color: white;
+    background-color: rgb(141, 14, 14);
+  background-attachment: fixed;
+}
+h2.basico{
+color: rgb(36, 216, 36);
+font-weight: bold;
+}
+h2.intermediario{
+    color: yellow;
+
+}
+h2.avancado{
+    color: red;
+
+}
+.basico{
+    color: brown;
+}
